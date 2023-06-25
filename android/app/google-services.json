@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606529609541",
+    "project_id": "peckesplay",
+    "storage_bucket": "peckesplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606529609541:android:fa56c5ec4bad083998682c",
+        "android_client_info": {
+          "package_name": "com.example.peckes_play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606529609541-tt2sd4en0ark3v4h80atiru7b2u156hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzj47ombaHIewXPQJxwoDUZCLZZIwin4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606529609541-tt2sd4en0ark3v4h80atiru7b2u156hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
